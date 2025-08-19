@@ -7,6 +7,9 @@ import Bannercartas from '../Components/Banners/BannercartasComponent.jsx';
 import ServiciosComponent from '../Components/ServiciosComponent.jsx';
 import TestimoniosComponent from '../Components/TestimoniosComponent.jsx';
 import PromocionesComponent from '../Components/PromocionesComponent.jsx';
+import FooterComponent from '../Components/FooterComponent.jsx';
+
+
 function Home() {
   return (
     <div>
@@ -21,7 +24,7 @@ function Home() {
       <TestimoniosComponent />
        {/*<PromocionesComponent />  */}
 
-
+<FooterComponent />
  
 
 
